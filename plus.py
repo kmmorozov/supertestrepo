@@ -1,4 +1,4 @@
-a = input("Введите a: ")
-b = input("Введите b: ")
+a = int(input("Введите a: "))
+b = int(input("Введите b: "))
 c = a + b
 print('результат вычислений: ', c)
